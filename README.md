@@ -1,4 +1,4 @@
-commandcenter
+Command Center
 =============
 
 Personal project management.
